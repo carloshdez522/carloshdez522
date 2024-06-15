@@ -9,7 +9,7 @@
 
 - 👨🏽‍💻 Some of my projects are available on [GitHub](https://github.com/carloshdez522/Personal-projects).
   
-- 📧 Reach me at **carlos.hdez.522@gmail.com**
+- 📧 Reach me at [**carlos.hdez.522@gmail.com**](mailto:carlos.hdez.522@gmail.com)
 
 
 ## Tools & Technologies:
