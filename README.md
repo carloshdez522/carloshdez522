@@ -1,7 +1,7 @@
 <h1 align="center">I'm <a href="https://orcid.org/0009-0006-6749-1686"><strong>Carlos Hernández</strong></a></h1>
 <h3 align="center">&lt; Bioinformatic, coding enthusiast and lifelong learner &gt;</h3>
 
-- 🧬 Passionate bioinformatics student excited about analyzing biological data and integrating artificial intelligence to solve complex problems.
+- 🧬 Bioinformatics Engineer passionate about analyzing biological data and integrating artificial intelligence to solve complex problems.
 
 - 📝 Currently studying Structural Bioinformatics, Computational Chemistry, Statistics, Machine Learning and Data Science.
 
@@ -24,6 +24,9 @@
     <a href="https://www.java.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
             width="50" height="50"/> </a>
+    <a href="https://kotlinlang.org/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin"
+            width="50" height="50"/> </a>
 </p>
 
 ### Data Science & Machine Learning:
@@ -42,7 +45,7 @@
     <a href="https://pytorch.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/></a>
     <a href="https://keras.io/" target="_blank"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="50" height="50"/></a>
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="50" height="50"/></a>
 </p>
 
 ### Data Visualization:
