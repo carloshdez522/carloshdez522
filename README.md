@@ -1,126 +1,31 @@
-<h1 align="center">I'm <a href="https://orcid.org/0009-0006-6749-1686"><strong>Carlos Hernández</strong></a></h1>
-<h3 align="center">&lt; Bioinformatic, coding enthusiast and lifelong learner &gt;</h3>
+<h1 align="center">Hi, I'm Carlos Hernández 👋</h1>
 
-- 🧬 Bioinformatics Engineer passionate about analyzing biological data and integrating artificial intelligence to solve complex problems.
+<h3 align="center">Full-Stack Developer & Bioinformatics Engineer · M.Sc. in Computer Science (PCIC-UNAM, in progress)</h3>
 
-- 📝 Currently studying Structural Bioinformatics, Computational Chemistry, Statistics, Machine Learning and Data Science.
+<p align="center">I build full web applications and data/AI solutions that turn manual work into working systems.</p>
 
-- 🤝 Open to collaborating on **open source bioinformatics projects**.
+---
 
-- 👨🏽‍💻 Some of my projects are available on [GitHub](https://github.com/carloshdez522/Personal-projects).
-  
-- 📧 Reach me at [**carlos.hdez.522@gmail.com**](mailto:carlos.hdez.522@gmail.com)
+### What I do
 
+- 🌐 **Full-stack web apps** — React · TypeScript · PHP · MySQL · REST APIs · PayPal
+- 🤖 **AI / Machine Learning** — Python, CNNs, RNNs, LLM/OpenAI API, scikit-learn
+- ⚙️ **Automation** — Python, webhooks, WhatsApp/Google Sheets, API integrations
 
-## Tools & Technologies:
-### Languages:
-<p align="left">
-    <a href="https://www.python.org" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python"
-            width="50" height="50"/> </a>
-   <a href="https://www.r-project.org/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"
-            alt="r-project" width="50" height="50"/> </a>
-    <a href="https://www.java.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java"
-            width="50" height="50"/> </a>
-    <a href="https://kotlinlang.org/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin"
-            width="50" height="50"/> </a>
-</p>
+### Selected work
 
-### Data Science & Machine Learning:
-<p align="left">
-    <a href="https://pandas.pydata.org/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/usepanda/usepanda-icon.svg"
-            alt="pandas" width="50" height="50"/> </a>
-    <a href="https://scikit-learn.org/" target="_blank"> <img
-            src="https://th.bing.com/th/id/R.09ba0105b3bc11dac5b7c09443812189?rik=7UmhMl5FciECwQ&riu=http%3a%2f%2famueller.github.io%2fsklearn_014_015_pydata%2fsklearn-logo.png&ehk=%2fdoHlCDrKDgQK%2bMOem6eU3lvCRQHqQrt9J%2f3veiO1Pw%3d&risl=&pid=ImgRaw&r=0"
-            alt="scikit" width="50" height="50"/> </a>
-    <a href="https://numpy.org/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"
-            alt="numpy" width="50" height="50"/> </a>
-    <a href="https://www.tensorflow.org/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/></a>
-    <a href="https://pytorch.org/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/></a>
-    <a href="https://keras.io/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="50" height="50"/></a>
-</p>
+- [Liriano & Son Shower Doors](https://lirianosonglassprofessional.com/) — corporate site (technical SEO + PWA) and a private internal job-management app on PHP/MySQL
+- [CES-CO](https://ces-co.org/) — corporate WordPress site with on-page SEO
+- Full-stack e-commerce — React + TypeScript PWA, PHP REST API, MySQL (i18n), PayPal checkout
 
-### Data Visualization:
-<p align="left">
-    <a href="https://matplotlib.org/" target="_blank"> <img
-            src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" alt="matplotlib" width="50"
-            height="50"/> </a>
-    <a href="https://seaborn.pydata.org/" target="_blank"> <img
-            src="https://www.educative.io/api/edpresso/shot/5096396179374080/image/5300591913336832" alt="seaborn" width="50"
-            height="50"/> </a>
-    <a href="https://plotly.com/python/" target="_blank"> <img
-            src="https://avatars.githubusercontent.com/u/5997976?s=200&v=4" alt="plotly" width="50"
-            height="50"/> </a>
-</p>
+### Tech
 
-### Bioinformatics:
-<p align="left">
-    <a href="https://www.rdkit.org/docs/GettingStartedInPython.html" target="_blank"> <img
-            src="https://avatars.githubusercontent.com/u/2018047?s=200&v=4"
-            alt="rdkit" width="50" height="50"/> </a>
-    <a href="https://pymol.org/" target="_blank"> <img
-            src="https://seeklogo.com/images/P/pymol-logo-D17FF8A6DB-seeklogo.com.png"
-            alt="pymol" width="50" height="50"/> </a>
-    <a href="https://bioconda.github.io/" target="_blank"> <img
-            src="https://avatars.githubusercontent.com/u/14253259?s=200&v=4"
-            alt="nbioconda" width="50" height="50"/> </a>
-    <a href="https://biopython.org/" target="_blank"> <img
-            src="https://avatars.githubusercontent.com/u/54555?s=200&v=4" alt="biopython" width="50" height="50"/></a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
+### Let's work together
 
-### Frontend, Backend and Databases:
-<p align="left">
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-            width="50" height="50"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="50" height="50"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django"
-            width="50" height="50"/> </a>
-    <a href="https://www.mysql.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"
-            alt="mysql" width="50" height="50"/> </a>
-</p>
+I'm available for freelance projects.
 
-### Operating System:
-<p align="left">
-    <a href="https://www.linux.org/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"
-            alt="linux" width="50" height="50"/> </a>
-    <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" width="50" height="50"/></a>
-</p>
-
-
-### Others:
-<p align="left">
-    <a href="https://git-scm.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-</p>
-
-## Contact with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/carlos-hernandez-5199812ba/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" width="50" height="50"/>
-  </a>
-  <a href="https://www.kaggle.com/carloshdez522" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="50" height="50"/>
-  </a>
-  <a href="https://www.instagram.com/carlos_hdez_oficial/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="50" height="50"/>
-  </a>
-  <a href="https://x.com/king_CHdez" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/x/x-icon.svg" alt="X" width="50" height="50"/>
-  </a>
-</p>
+📧 carlos.hdez.522@gmail.com · [LinkedIn](https://www.linkedin.com/in/carlos-hernandez-5199812ba/) · [Kaggle](https://www.kaggle.com/carloshdez522) · [ORCID](https://orcid.org/0009-0006-6749-1686)
