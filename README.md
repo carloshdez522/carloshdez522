@@ -29,3 +29,5 @@
 I'm available for freelance projects.
 
 📧 carlos.hdez.522@gmail.com · [LinkedIn](https://www.linkedin.com/in/carlos-hernandez-5199812ba/) · [Kaggle](https://www.kaggle.com/carloshdez522) · [ORCID](https://orcid.org/0009-0006-6749-1686)
+
+🌐 **Portfolio:** https://carloshdez522.github.io/
